@@ -42,7 +42,7 @@ class AboutPage extends StatelessWidget {
                           );
                         },
                     child: Container(
-                      // 21M (36:582)
+                     
                       margin: EdgeInsets.fromLTRB(
                           0 * fem, 0 * fem, 120 * fem, 0 * fem),
                       child: Text(
@@ -59,7 +59,7 @@ class AboutPage extends StatelessWidget {
                     ),
                   ),
                   Text(
-                    // specialrequestsHKM (36:581)
+                    
                     'About',
                     textAlign: TextAlign.center,
                     style: TextStyle(
@@ -74,7 +74,7 @@ class AboutPage extends StatelessWidget {
               ),
             ),
             Container(
-              // autogroupgnq5eHd (GpWyzUGWxk9rt6BwfLgNQ5)
+              
               padding:
                   EdgeInsets.fromLTRB(40 * fem, 0 * fem, 32 * fem, 0 * fem),
               width: double.infinity,
@@ -82,7 +82,7 @@ class AboutPage extends StatelessWidget {
                 crossAxisAlignment: CrossAxisAlignment.center,
                 children: [
                   Container(
-                    // screenshot284withoutnameremove (36:587)
+                    
                     margin: EdgeInsets.fromLTRB(
                         0 * fem, 30 * fem, 6 * fem, 0 * fem),
                     width: 160 * fem,
@@ -99,7 +99,7 @@ class AboutPage extends StatelessWidget {
               height: 70 * fem,
             ),
             Container(
-              // autogroup9vn31Ls (KjocVArqi7VEfuB5U19vN3)
+              
               padding:
                   EdgeInsets.fromLTRB(25 * fem, 22 * fem, 30 * fem, 17 * fem),
               width: 350,
@@ -119,7 +119,7 @@ class AboutPage extends StatelessWidget {
                         );
                       },
                       child: Container(
-                        // autogroupgagpX4K (KjockFG45Aqo4dGdZVGAGP)
+                        
                         padding: EdgeInsets.fromLTRB(
                             15 * fem, 6 * fem, 22 * fem, 5 * fem),
                         width: double.infinity,
@@ -131,7 +131,7 @@ class AboutPage extends StatelessWidget {
                           crossAxisAlignment: CrossAxisAlignment.center,
                           children: [
                             Container(
-                              // accountEzK (38:712)
+                              
                               margin: EdgeInsets.fromLTRB(
                                   0 * fem, 0 * fem, 130 * fem, 1 * fem),
                               child: Text(
@@ -147,7 +147,7 @@ class AboutPage extends StatelessWidget {
                               ),
                             ),
                             Text(
-                              // xfR (181:187)
+                            
                               '>',
                               textAlign: TextAlign.center,
                               style: TextStyle(
@@ -174,7 +174,7 @@ class AboutPage extends StatelessWidget {
                         );
                       },
                       child: Container(
-                        // autogroupjv3mJDV (KjocsQinUdkW68ZgxHJV3m)
+                        
                         padding: EdgeInsets.fromLTRB(
                             16 * fem, 6 * fem, 22 * fem, 5 * fem),
                         width: double.infinity,
@@ -186,7 +186,7 @@ class AboutPage extends StatelessWidget {
                           crossAxisAlignment: CrossAxisAlignment.center,
                           children: [
                             Container(
-                              // passwordsecurity1dh (38:718)
+                              
                               margin: EdgeInsets.fromLTRB(
                                   0 * fem, 0 * fem, 130 * fem, 3 * fem),
                               child: Text(
@@ -202,7 +202,7 @@ class AboutPage extends StatelessWidget {
                               ),
                             ),
                             Text(
-                              // 8iK (181:191)
+                             
                               '>',
                               textAlign: TextAlign.center,
                               style: TextStyle(
@@ -223,13 +223,13 @@ class AboutPage extends StatelessWidget {
               height: 150 * fem,
             ),
             Container(
-              // autogroupcsidAFy (GpWypZPNC8wdGxhcobCsiD)
+           
               width: double.infinity,
               height: 130 * fem,
               child: Stack(
                 children: [
                   Positioned(
-                    // rectangle97S7 (38:663)
+                    // rectangle
                     left: 0 * fem,
                     top: 80 * fem,
                     child: Align(
@@ -245,7 +245,7 @@ class AboutPage extends StatelessWidget {
                     ),
                   ),
                   Positioned(
-                    // homeiconsilhouettefreeiconsdes (38:664)
+                    // homeicons
                     left: 40 * fem,
                     top: 88 * fem,
                     child: Align(
@@ -266,7 +266,7 @@ class AboutPage extends StatelessWidget {
                     ),
                   ),
                   Positioned(
-                    // freesearchpngsvgiconremovebgpr (38:665)
+                    // freesearch
                     left: 135 * fem,
                     top: 90 * fem,
                     child: Align(
@@ -287,7 +287,7 @@ class AboutPage extends StatelessWidget {
                     ),
                   ),
                   Positioned(
-                    // downloadremovebgpreview1SMu (38:666)
+                    
                     left: 304 * fem,
                     top: 85 * fem,
                     child: Align(
@@ -308,7 +308,7 @@ class AboutPage extends StatelessWidget {
                     ),
                   ),
                   Positioned(
-                    // settingiconremovebgpreview1mQB (38:667)
+                    // settingicon
                     left: 195 * fem,
                     top: 80 * fem,
                     child: Align(
